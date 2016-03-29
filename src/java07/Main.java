@@ -10,6 +10,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO 自動產生的方法 Stub
 		System.out.println("質數");
+		System.out.println("輸入最大的值");
 		int po=scn.nextInt();
 		
 		for(int i=3 ;i<po;i++)
